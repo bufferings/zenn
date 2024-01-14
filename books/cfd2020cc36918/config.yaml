@@ -7,4 +7,4 @@ price: 0 # 有料の場合200〜5000
 chapters:
   - example1
   - example2
-toc_depth: 1
+toc_depth: 0
