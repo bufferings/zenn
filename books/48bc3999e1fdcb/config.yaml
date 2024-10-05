@@ -4,5 +4,10 @@ topics: []
 published: false
 price: 0
 chapters:
-  - example1
-  - example2
+  - value
+  - team
+  - planning
+  - development
+  - discovery
+  - organization
+  - glue
