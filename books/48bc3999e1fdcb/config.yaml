@@ -1,14 +1,16 @@
-title: "sample"
-summary: "sample"
-topics: []
+title: "10年ちょっとやってきた僕のアジャイル開発の現在地"
+summary: "DevLOVE関西200回目で喋ることになったので、今の自分が開発するときに考えていることを書き出してみた。"
+topics: ["Agile"]
 published: false
 price: 0
 chapters:
-  - intro
+  - introduction
   - value
+  - iteration
   - team
+  - role
+  - discovery
   - planning
   - development
-  - discovery
   - organization
   - outro

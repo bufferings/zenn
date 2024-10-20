@@ -1,0 +1,8 @@
+version: 1
+
+imports:
+  - ./prh-rules/media/techbooster.yml
+
+rules:
+  - expected: つくる
+    pattern: 作る

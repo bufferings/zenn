@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.157"
+    "textlint": "14.2.1",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-ja-hiragana-keishikimeishi": "^1.1.0",
+    "textlint-rule-ja-no-redundant-expression": "^4.0.1",
+    "textlint-rule-no-doubled-conjunctive-particle-ga": "2.0.5",
+    "textlint-rule-preset-ja-technical-writing": "7.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.14",
+    "textlint-rule-prh": "^6.0.0",
+    "zenn-cli": "0.1.157"
   }
 }

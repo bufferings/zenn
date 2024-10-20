@@ -1,0 +1,20 @@
+{
+  "plugins": {},
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "no-doubled-conjunctive-particle-ga": true,
+    "preset-ja-technical-writing": {
+      "ja-no-mixed-period": false
+    },
+    "ja-hiragana-keishikimeishi": true,
+    "ja-no-redundant-expression": true,
+    "preset-jtf-style": true,
+    "prh": {
+      "rulePaths": [
+        "./prh.yml"
+      ]
+    }
+  }
+}
